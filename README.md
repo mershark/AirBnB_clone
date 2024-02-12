@@ -64,4 +64,7 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
--Mershark Oheneba Takyi
+👤 **Mershark Takyi**
+
+- GitHub: [@githubhandle](https://github.com/mershark)
+- LinkedIn: [Profile link](https://www.linkedin.com/in/mershark/)
